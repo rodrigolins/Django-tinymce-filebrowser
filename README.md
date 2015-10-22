@@ -1,6 +1,10 @@
 django-tinymce-filebrowser
 ===
 
+**Django 1.8** works pretty fine.
+
+Just update the example to use the most up-to-date Django version (1.8.5) and Pillow 3 instead 2
+
 **django-tinymce-filebrowser** is a simple and flexible tool for managing your files and images from TinyMCE editor.
 
 Current version of package support only TinyMCE 3.x versions.
